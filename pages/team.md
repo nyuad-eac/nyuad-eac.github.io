@@ -6,6 +6,7 @@ weight: 1
 ---
 
 #### meet your **bioengineering** rep :syringe:
+##### Ansen Zhi-Han Lai
 
 <img style="padding-left: 20px; padding-bottom: 10px;" align="right" src="../assets/ansen.png" alt="azl" width="400"/>
 
@@ -17,6 +18,7 @@ Although I am originally from Taiwan, I grew up in a few different countries, ma
 <br />
 
 #### meet your **mechanical engineering** rep :gear:
+##### Mareya Khouri
 
 <img style="padding-right: 10px;" align="left" src="../assets/mareya.png" alt="mk" width="300"/>
 
@@ -28,6 +30,7 @@ In my free time, I enjoy boxing, listening to podcasts, playing Call of Duty, sp
 <br />
 
 #### meet your **civil engineering** rep :construction:
+##### Sungmin Sohn
 
 <img style="padding-left: 20px; padding-bottom: 10px;" align="right" src="../assets/sungmin.png" alt="ss" width="300"/>
 
@@ -41,6 +44,7 @@ Just remember that Civil Engineering is not only about building bridges! There a
 <br />
 
 #### meet your **computer engineering** rep :computer:
+##### Nishant Aswani
 
 <img style="padding-right: 10px;" align="left" src="../assets/nishant.png" alt="na" width="400"/>
 
@@ -52,6 +56,7 @@ As the computer engineering rep, I hope to help peers better understand what the
 <br />
 
 #### meet your **electrical engineering** rep :zap:
+##### Rumail Memon
 
 <img style="padding-left: 20px; padding-bottom: 10px;" align="right" src="../assets/rumail.png" alt="rm" width="300"/>
 
