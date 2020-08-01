@@ -62,7 +62,7 @@ As the computer engineering rep, I hope to help peers better understand what the
 
 Hi! I'm Rumail. I am a rising senior majoring in electrical engineering with a minor in computer science. I've always known I wanted to study a field related to electrical engineering, computer engineering and computer science, but wasn't quite sure until my sophomore year. I find myself engaged in many projects (perhaps too many) at times and love to keep myself busy. Its sometimes hard for me to ~stay grounded~, but it usually works out in the end. Reach out if you want help with course selection or if you are thinking about a project and want someone to bounce ideas off of.
 
-I am a Pakistani-American who has lived in Abu Dhabi for the last 11 years. I like playing Overwatch in my free time. I love buying cheap products from aliexpress and love being utterly surprised or thoroughly dissapointed at what actually arrives. Ask me about student led projects, 3d printing, PCB design and anything really! 
+I am a Pakistani-American who has lived in Abu Dhabi for the last 11 years. I like playing Overwatch in my free time. I love buying cheap products from aliexpress and love being utterly surprised or thoroughly disappointed at what actually arrives. Ask me about student led projects, 3d printing, PCB design and anything really! 
 
 <br />
 <br />
