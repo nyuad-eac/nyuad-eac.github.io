@@ -5,6 +5,10 @@ permalink: /faq/
 weight: 2
 ---
 
+**As an incoming freshman trying to major in Engineering, what courses should I be taking?**
+
+It is highly recommended that you are enrolled in three courses, including Computer Programming for Engineers, a Math Course, and FYWS or Core Colloquium. This will prevent you from falling behind. Students currently enrolled in only two courses (underloading), or are not enrolled in the suggested courses, should revise their schedules. 
+
 **What is MATH-UH 1000 A&B? Is it one semester or two semesters? How does it work?**
 
 The MATH-UH 1000 A&B is a new course set up by the Math department. It replaces the previously available set of pre-calculus courses (Vectors, Functions, Trigonometry). Each “section” (A&B) are 2-credits and are meant to be completed in the same semester. The course is also meant to be completed prior to enrolling in Calculus.
