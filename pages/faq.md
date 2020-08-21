@@ -21,13 +21,13 @@ It is possible to try to appeal your case to the Maths Department, provided you 
 
 Yes it will impact your graduation year, you will now be graduating in 9-10 semesters. Once the bulletin is released we will be able to show how/why this is the case.  \
  \
-Keep in mind, the Engineering Department nor the Engineering Academic Committee recommend this pathway. We are unable to say whether the student will be able to receive financial support for their extra semester(s) as this is not a decision we are involved in.
+Keep in mind, neither the Engineering Department nor the Engineering Academic Committee recommend this pathway. We are unable to say whether the student will be able to receive financial support for their extra semester(s) as this is not a decision we are involved in.
 
 **I placed into MATH-UH 1000 A&B. Will this affect my study-aways or J-terms?**
 
 You will still be able to study away for a semester. Once the bulletin is released we will be able to show when this study-away would take place. You should still have the same number of J-term courses (3).
 
-Keep in mind, the Engineering Department nor the Engineering Academic Committee recommend this pathway. We are unable to say whether the student will be able to receive financial support for their extra semester(s) as this is not a decision we are involved in.
+Keep in mind, neither dsd the Engineering Department nor the Engineering Academic Committee recommend this pathway. We are unable to say whether the student will be able to receive financial support for their extra semester(s) as this is not a decision we are involved in.
 
 **I placed into MATH-UH 1000 A&B. What courses should I take?**
 
@@ -45,6 +45,8 @@ However, when making your decision, do keep in mind that all Natural Science and
 
 The extension of certain math courses (e.g. Linear Algebra, ODE, etc) covers your math/science ABET requirements. You don’t have to worry about this. 
 
+For those opting out of FOS 3/4 , you must do either Quantitative Synthetic Biology or Electromagnetics (for Engineers?) course.
+
 Keep in mind that for those wishing to major in Bioengineering, FOS 1-6 will still be required.
 
 **Is it possible to do a minor in Aerospace engineering?**
@@ -55,7 +57,7 @@ Incoming students should NOT plan on pursuing an aerospace minor. This is due to
 
 Once the bulletin is released, we will have an information page dedicated to the Bioengineering major! It will outline the Bioengineering pathway, courses, and answer from frequently asked questions. Also, if you’re looking for something very specific, you’re always welcome to reach out to Ansen(Bioengineering rep) at [zhl232@nyu.edu](mailto:zhl232@nyu.edu) for more info.
 
-You can assume that as an incoming freshman you will have the option to major in Bioengineering.
+You can assume that as an incoming freshman you will have the option to major in Bioengineering as it has been approved.
 
 **What are the categories we will be evaluated on in order to have 2 study away semesters?**
 
