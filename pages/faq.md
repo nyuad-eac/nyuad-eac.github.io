@@ -27,7 +27,7 @@ Keep in mind, neither the Engineering Department nor the Engineering Academic Co
 
 You will still be able to study away for a semester. Once the bulletin is released we will be able to show when this study-away would take place. You should still have the same number of J-term courses (3).
 
-Keep in mind, neither dsd the Engineering Department nor the Engineering Academic Committee recommend this pathway. We are unable to say whether the student will be able to receive financial support for their extra semester(s) as this is not a decision we are involved in.
+Keep in mind, neither the Engineering Department nor the Engineering Academic Committee recommend this pathway. We are unable to say whether the student will be able to receive financial support for their extra semester(s) as this is not a decision we are involved in.
 
 **I placed into MATH-UH 1000 A&B. What courses should I take?**
 
