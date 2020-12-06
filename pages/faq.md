@@ -5,6 +5,16 @@ permalink: /faq/
 weight: 2
 ---
 
+**What are the math courses being offered this summer semester?**
+
+* Calculus with Applications to Science and Engineering
+* Calculus with Applications to Economics
+* Multivariable Calculus with Applications to Science and Engineering
+* Multivariable Calculus with Applications to Economics
+* Fundamentals of Linear Algebra
+* Fundamentals of Ordinary Differential Equations
+
+
 **For the Spring semester, it is recommended I take two cores and one colloquium. Can I do two colloquiums and one core?**
 
 The order you complete cores and colloquiums throughout your degree at NYUAD does not matter from a degree perspective. It is highly recommended to spread your core/colloquium courses out to keep things varied and interesting, but it is not required. Looking at the recommended courses, you can take a general elective in place of a core/colloquium as well. Freshman year is a great time to explore an alternative subject you may want to minor in, a skill you may want to explore, etc.  
