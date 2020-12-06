@@ -1,8 +1,9 @@
 ---
-layout: page
-title: BioE Updates
-permalink: /bioeng/
-weight: 3
+title: Bioengineering Course Guidance
+tags: [grids, graduation]
+style:
+color:
+description: Guidance on graduation requirements for bioengineering
 ---
 
 **Who is allowed to major in Bioengineering?**
