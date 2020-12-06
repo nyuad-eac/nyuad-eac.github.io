@@ -5,9 +5,14 @@ permalink: /faq/
 weight: 2
 ---
 
+**For the Spring semester, it is recommended I take two cores and one colloquium. Can I do two colloquiums and one core?**
+
+The order you complete cores and colloquiums throughout your degree at NYUAD does not matter from a degree perspective. It is highly recommended to spread your core/colloquium courses out to keep things varied and interesting, but it is not required. Looking at the recommended courses, you can take a general elective in place of a core/colloquium as well. Freshman year is a great time to explore an alternative subject you may want to minor in, a skill you may want to explore, etc.  
+
+
 **As an incoming freshman trying to major in Engineering, what courses should I be taking?**
 
-It is highly recommended that you are enrolled in three courses, including Computer Programming for Engineers, a Math Course, and FYWS or Core Colloquium. This will prevent you from falling behind. Students currently enrolled in only two courses (underloading), or are not enrolled in the suggested courses, should revise their schedules. 
+It is highly recommended that you are enrolled in three courses for the fall semester, including Computer Programming for Engineers, a Math Course, and FYWS or Core Colloquium. This will prevent you from falling behind. Students currently enrolled in only two courses (underloading), or are not enrolled in the suggested courses, should revise their schedules. 
 
 **What is MATH-UH 1000 A&B? Is it one semester or two semesters? How does it work?**
 
