@@ -58,7 +58,7 @@ I am a huge sports fan and spend most of my spare time playing basketball. With 
 #### meet your **electrical engineering** rep :zap:
 ##### Uljad Berdica
 
-<img style="padding-left: 20px; padding-bottom: 10px;" align="right" src="../assets/Uljad.jpg" alt="rm" width="300"/>
+<img style="padding-left: 20px; padding-bottom: 10px;" align="right" src="../assets/Uljad.jpg" alt="rm" width="270"/>
 
 Hello there! My name is Uljad Berdica and I am a rising senior in Electrical Engineering. I am Albanian but have also lived in Boston and Shanghai. I chose to study Electrical Engineering because it stood in the perfect intersection of engineering, math and computer science and its principles can be used to model processes in science, society and nature. I am currently interested in Embedded Systems use in Electronics and Robot Vision methods applied to neuroimagery and autonomous driving.
 
