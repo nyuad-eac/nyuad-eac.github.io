@@ -85,7 +85,7 @@ In my spare time I do be dabbling in a range of things, from playing rocket leag
 <br />
 <br />
 
-#### meet your **general engineering**
+#### meet your **general engineering** rep
 ##### Sofia Chavele-Dastamani
 
 <img style="padding-left: 20px; padding-bottom: 10px;" align="right" src="../assets/Sofia.JPG" alt="ss" width="365"/>
