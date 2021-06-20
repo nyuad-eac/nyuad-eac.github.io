@@ -6,7 +6,6 @@ weight: 1
 ---
 
 
-
 #### meet your **mechanical engineering** rep :gear:
 ##### Kevin Kuriakose Joseph
 
