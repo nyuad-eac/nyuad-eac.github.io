@@ -38,11 +38,13 @@ If you’re interested in any of these topics or have questions about compE at N
 
 <br />
 <br />
-
+<br />
+<br />
+<br />
 #### meet your **bioengineering** rep :syringe:
 ##### Abhay Menon
 
-<img style="padding-left: 20px; padding-bottom: 10px;" align="right" src="../assets/Abhay.jpeg" alt="azl" width="400"/>
+<img style="padding-left: 20px; padding-bottom: 10px;" align="right" src="../assets/Abhay.jpeg" alt="azl" width="350"/>
 
 <p align="justify">
 
@@ -66,6 +68,8 @@ My other passion is comedy which I have been pursuing for the last couple of yea
 
 <br />
 <br />
+<br />
+<br />
 
 
 #### meet your **civil engineering** rep :construction:
@@ -80,6 +84,8 @@ In my spare time I do be dabbling in a range of things, from playing rocket leag
 
 <br />
 <br />
+<br />
+<br />
 
 #### meet your **general engineering**
 ##### Sofia Chavele-Dastamani
@@ -89,10 +95,10 @@ In my spare time I do be dabbling in a range of things, from playing rocket leag
 Hi everyone! My name is Sofia and I am a rising senior majoring in General Engineering, specializing in Biomedical and Health Systems. I am originally from Athens, Greece, where I spent 18 years before joining NYUAD, and proudly calling Abu Dhabi my new home. I have been telling everyone who would listen about wanting to major in Biomedical Engineering for as long as I can remember myself! I am interested in 3D printing, medical device cost-optimization, and HealthTech early-stage innovation. In my free time, I mostly try to explore other emirates (I have a soft spot for Dubai!), I play Squash, and I am a little bit too much into Pilates. Above all, as your Gen Eng Rep, I am extremely passionate about highlighting the unique opportunity and flexibility that a General Engineering major offers. 
 Whether you want to discuss Engineering electives, alternative career paths after Engineering, or simply need some Greek restaurant recommendations, I am always a message away!
 
-
 <br />
 <br />
-
+<br />
+<br />
 
 
 
