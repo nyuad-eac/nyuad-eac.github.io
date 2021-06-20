@@ -62,7 +62,7 @@ I am a huge sports fan and spend most of my spare time playing basketball. With 
 
 Hello there! My name is Uljad Berdica and I am a rising senior in Electrical Engineering. I am Albanian but have also lived in Boston and Shanghai. I chose to study Electrical Engineering because it stood in the perfect intersection of engineering, math and computer science and its principles can be used to model processes in science, society and nature. I am currently interested in Embedded Systems use in Electronics and Robot Vision methods applied to neuroimagery and autonomous driving.
 
-My other passion is comedy which I have been pursuing for the last couple of years. In my spare time I try to write jokes and make observations about things that I either like or annoy me a lot. Hit me up if you have questions about engineering research, Robotics or want to test some jokes! I am not paying for your coffee but I do have a lot of tea that you can have!
+My other passion is comedy which I have been pursuing for the last couple of years. In my spare time I try to write jokes and make observations about things that I either like or annoy me a lot. Hit me up if you have questions about engineering research, Robotics or want to test some jokes! I am not paying for your coffee but I do have a lot of tea that you can have !
 
 <br />
 <br />
