@@ -10,7 +10,7 @@ weight: 1
 #### meet your **mechanical engineering** rep :gear:
 ##### Kevin Kuriakose Joseph
 
-<img style="padding-right: 10px;" align="left" src="../assets/Kevin.jpeg" alt="mk" width="200"/>
+<img style="padding-right: 10px;" align="left" src="../assets/Kevin.jpeg" alt="mk" width="250"/>
 
 Howdy, I am Kevin Joseph, a rising senior majoring in Mechanical Engineering. Although I am Indian, I was raised and lived in Abu Dhabi my entire life. I always wanted to study the broadest degree possible, and choose to study Mechanical Engineering at the end. Currently, I am interested in topics at the intersection of Urban Engineering and Design, Sustainability and Public Policy. The Vessel and the Little Island at the Hudson Yards are my favorite modern architectural projects. In my spare time, I try to learn latte art and put together a new Spotify playlist. I love dogs, and would love to adopt a dog one day.  
 
@@ -26,7 +26,7 @@ Ask me anything about engineering research, about my spotify playlists, or my lo
 #### meet your **computer engineering** rep :computer:
 ##### Maya Fayed
 
-<img style="padding-right: 10px;" align="right" src="../assets/Maya.PNG" alt="na" width="200"/>
+<img style="padding-right: 10px;" align="right" src="../assets/Maya.PNG" alt="na" width="250"/>
 
 Hey there! I’m Maya and I’m a rising junior majoring in computer engineering. Home for me is Alexandria, Egypt and I’ve lived there all my life before coming to NYUAD. While my interest in computer engineering lies primarily within the software side, I chose this major because it allows me to supplement my knowledge of software with very interesting hardware areas such as embedded systems and hardware security. In terms of my academic interests, these range from cybersecurity to computational social science and data visualization and I’m particularly enthusiastic about tackling questions of tech ethics surrounding AI and autonomous systems.
 
