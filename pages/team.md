@@ -5,64 +5,84 @@ permalink: /team/
 weight: 1
 ---
 
-#### meet your **bioengineering** rep :syringe:
-##### Ansen Zhi-Han Lai
 
-<img style="padding-left: 20px; padding-bottom: 10px;" align="right" src="../assets/ansen.png" alt="azl" width="400"/>
-
-Hi, I am Ansen Zhi-Han Lai, a student planning to major in Bioengineering. For the past 2 years, I have been working closely alongside Bioengineering professors, trying my best to answer student questions and concerns, as well as provide suggestions on this upcoming major! Because this is a new and upcoming major here, there is inevitably a level of uncertainty when it comes to course structure and offerings, so please do reach out to me anytime you need any help. Last semester, we have accomplished a lot together, opening 3 Bioengineering-specific courses, as well as hosted a student townhall. I look forwards to have you join us in this exciting journey!
-
-Although I am originally from Taiwan, I grew up in a few different countries, making me especially interested in unique and local cuisines and snacks. Above all, I am a huge fan of architecture and design, which makes Dubai one of my favorite places in the world to go to. Feel free to chat me up anytime.
-
-<br />
-<br />
 
 #### meet your **mechanical engineering** rep :gear:
-##### Mareya Khouri
+##### Kevin Kuriakose Joseph
 
-<img style="padding-right: 10px;" align="left" src="../assets/mareya.png" alt="mk" width="300"/>
+<!-- <img style="padding-right: 10px;" align="left" src="../assets/mareya.png" alt="mk" width="300"/> -->
 
-Hi! I’m a junior majoring in Mechanical Engineering with interests in Aerospace, Visual Arts, and Design. I was born and raised in Abu Dhabi and have been deeply moved by the diverse characters, moods, and scenes this multidimensional, remolding city has to offer. When I grow up, I want to become an astronaut as I am fascinated by the idea of living in space and terraforming planets to make them more habitable — I wrote a cool paper on birth and fetal development in outer space!
+Howdy, I am Kevin Joseph, a rising senior majoring in Mechanical Engineering. Although I am Indian, I was raised and lived in Abu Dhabi my entire life. I always wanted to study the broadest degree possible, and choose to study Mechanical Engineering at the end. Currently, I am interested in topics at the intersection of Urban Engineering and Design, Sustainability and Public Policy. The Vessel and the Little Island at the Hudson Yards are my favorite modern architectural projects. In my spare time, I try to learn latte art and put together a new Spotify playlist. I love dogs, and would love to adopt a dog one day.  
 
-In my free time, I enjoy boxing, listening to podcasts, playing Call of Duty, speedcubing, and critiquing art. You’ll usually find me under the palm trees or on the pitch training with the football team. Please reach out with any questions you have about Mechanical Engineering, or anything else. I would love to support you in any way that I can!
-
-<br />
-<br />
-
-#### meet your **civil engineering** rep :construction:
-##### Sungmin Sohn
-
-<img style="padding-left: 20px; padding-bottom: 10px;" align="right" src="../assets/sungmin.png" alt="ss" width="300"/>
-
-Hi! My name is Sungmin Sohn, a senior majoring in Civil Engineering (I also intended to minor in design but did not have enough credit to finish it…please feel free though for any design related questions as well!). I am from Korea but lived in Abu Dhabi since I was in grade 10. I have also done two years of research as well as summer researches in fields of material science and transportation & traffic engineering.
-
-In addition to being a civil engineering representative, I am also a president of the ASCE NYUAD chapter. ASCE stands for American Society for Civil Engineers which DO NOT mean that you would have to be an American to be part of our community. In ASCE we not only share the internship opportunities but we share our interest, experience, and information that could really help you navigate your future as a civil engineering student. I hope you guys could join us and really help yourself with making decisions. Also, it would be so helpful to get to as know more upperclassman civil engineering students and professors!
-
-Just remember that Civil Engineering is not only about building bridges! There are so many other things that you can do as a civil engineer. If you are interested, please do not hesitate to talk to me! Feel free to ask really about anything, I would love to answer any and all of your questions.
+Ask me anything about engineering research, about my spotify playlists, or my love of new york city. Coffee on me!
 
 <br />
 <br />
 
 #### meet your **computer engineering** rep :computer:
-##### Nishant Aswani
+##### Maya Fayed
 
-<img style="padding-right: 10px;" align="left" src="../assets/nishant.png" alt="na" width="400"/>
+<!-- <img style="padding-right: 10px;" align="left" src="../assets/nishant.png" alt="na" width="400"/>
+ -->
+Hey there! I’m Maya and I’m a rising junior majoring in computer engineering. Home for me is Alexandria, Egypt and I’ve lived there all my life before coming to NYUAD. While my interest in computer engineering lies primarily within the software side, I chose this major because it allows me to supplement my knowledge of software with very interesting hardware areas such as embedded systems and hardware security. In terms of my academic interests, these range from cybersecurity to computational social science and data visualization and I’m particularly enthusiastic about tackling questions of tech ethics surrounding AI and autonomous systems.
 
-Heylo! I'm a senior majoring in Computer Engineering who was once absolutely clueless about his major. I figured out I wanted to do engineering in sophomore year (yeah, it's possible!) and ~coding~ sounded so cool (at the time), and here I am. I was born in Jaipur but have spent my entire pre-NYUAD life in Shenzhen, like 15 minutes away from Huaqiangbei! My ears usually perk up when I hear about automation or autonomous systems, or really most things computing. I try to keep myself occupied with a couple projects at any given moment, so *always* feel free to bug me about them! I also love curating Spotify playlists and when hit with inspiration will even make some playlist art for them. Otherwise, I'm buying an Americano, watching YouTube, or petting campus cats. Occasionally, I'm telling someone about how I miss living somewhere with a metro system.
+If you’re interested in any of these topics or have questions about compE at NYUAD, big or small, definitely feel free to reach out! I spend most of my downtime between Blacksmith and random coffee shops around the city so I’d love to grab a cup of coffee sometime and discuss any concerns you might have :) 
 
-As the computer engineering rep, I hope to help peers better understand what the major is all about, build some infrastructure for internships/off-campus opportunities, and help connect students to other amazing peers/resources! Happy to help whenever I can!
 
 <br />
 <br />
+
+#### meet your **bioengineering** rep :syringe:
+##### Abhay Menon
+
+<!-- <img style="padding-left: 20px; padding-bottom: 10px;" align="right" src="../assets/ansen.png" alt="azl" width="400"/>
+ -->
+Hey! I am Abhay Menon, a rising junior majoring in BioEngineering. I am from Chennai, India and have lived there all my life before coming to NYUAD. I decided to major in BioEngineering because it applies engineering tools and approaches to find unique solutions to problems in biology and medicine. The field of bioengineering is very broad but my research interests lie primarily in visual prosthesis, bionic implants and creating more effective point of care diagnostic tools. 
+
+I am a huge sports fan and spend most of my spare time playing basketball. With BioEngineering being a new major, if you have any questions regarding courses, professors or anything at all feel free to hit me up!
+
+<br />
+<br />
+
 
 #### meet your **electrical engineering** rep :zap:
-##### Rumail Memon
+##### Uljad Berdica
 
-<img style="padding-left: 20px; padding-bottom: 10px;" align="right" src="../assets/rumail.png" alt="rm" width="300"/>
+<!-- <img style="padding-left: 20px; padding-bottom: 10px;" align="right" src="../assets/rumail.png" alt="rm" width="300"/>
+ -->
+Hello there! My name is Uljad Berdica and I am a rising senior in Electrical Engineering. I am Albanian but have also lived in Boston and Shanghai. I chose to study Electrical Engineering because it stood in the perfect intersection of engineering, math and computer science and its principles can be used to model processes in science, society and nature. I am currently interested in Embedded Systems use in Electronics and Robot Vision methods applied to neuroimagery and autonomous driving.
 
-Hi! I'm Rumail. I am a rising senior majoring in electrical engineering with a minor in computer science. I've always known I wanted to study a field related to electrical engineering, computer engineering and computer science, but wasn't quite sure until my sophomore year. I find myself engaged in many projects (perhaps too many) at times and love to keep myself busy. Its sometimes hard for me to ~stay grounded~, but it usually works out in the end. Reach out if you want help with course selection or if you are thinking about a project and want someone to bounce ideas off of.
-
-I am a Pakistani-American who has lived in Abu Dhabi for the last 11 years. I like playing Overwatch in my free time. I love buying cheap products from aliexpress and love being utterly surprised or thoroughly disappointed at what actually arrives. Ask me about student led projects, 3d printing, PCB design and anything really! 
+My other passion is comedy which I have been pursuing for the last couple of years. In my spare time I try to write jokes and make observations about things that I either like or annoy me a lot. Hit me up if you have questions about engineering research, Robotics or want to test some jokes! I am not paying for your coffee but I do have a lot of tea that you can have!
 
 <br />
 <br />
+
+
+#### meet your **civil engineering** rep :construction:
+##### Yaman Garg
+
+<!-- <img style="padding-left: 20px; padding-bottom: 10px;" align="right" src="../assets/sungmin.png" alt="ss" width="300"/>
+ -->
+Helo! I am Yaman and I am a rising senior in Civil Engineering with a minor in Urbanization.  I am from India, lived in New Delhi all my life until I came to NYUAD. Tbh I chose Civil Engineering because I liked physics, eliminated everything else, and the courses also seemed pretty interesting (so far so good heh). I enjoy studying about cities, their history, planning, and how they deal with their challenges, especially providing people housing. So that’s why I love to take urbanization related courses (and end up overloading a bit too often). I am also working as the president of ASCE Student Chapter at NYUAD, so shameless plug to join us on Engage and participate in cool events related to Civil E. and Urbanization.
+
+In my spare time I do be dabbling in a range of things, from playing rocket league to making memes. Oh I also LOVE to go to museums. Let me know if you think I can help with anything or for a chat, neither coffee nor tea on me but I can make a very cool blue colored soda-based drink
+
+
+<br />
+<br />
+
+#### meet your **general engineering**
+##### Sofia Chavele-Dastamani
+
+<!-- <img style="padding-left: 20px; padding-bottom: 10px;" align="right" src="../assets/sungmin.png" alt="ss" width="300"/>
+ -->
+Hi everyone! My name is Sofia and I am a rising senior majoring in General Engineering, specializing in Biomedical and Health Systems. I am originally from Athens, Greece, where I spent 18 years before joining NYUAD, and proudly calling Abu Dhabi my new home. I have been telling everyone who would listen about wanting to major in Biomedical Engineering for as long as I can remember myself! I am interested in 3D printing, medical device cost-optimization, and HealthTech early-stage innovation. In my free time, I mostly try to explore other emirates (I have a soft spot for Dubai!), I play Squash, and I am a little bit too much into Pilates. Above all, as your Gen Eng Rep, I am extremely passionate about highlighting the unique opportunity and flexibility that a General Engineering major offers. 
+Whether you want to discuss Engineering electives, alternative career paths after Engineering, or simply need some Greek restaurant recommendations, I am always a message away!
+
+
+<br />
+<br />
+
+
+
+
