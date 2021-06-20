@@ -20,10 +20,7 @@ Ask me anything about engineering research, about my spotify playlists, or my lo
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
-<br />
+
 
 
 #### meet your **computer engineering** rep :computer:
@@ -40,7 +37,7 @@ If you’re interested in any of these topics or have questions about compE at N
 <br />
 <br />
 <br />
-<br />
+
 
 #### meet your **bioengineering** rep :syringe:
 ##### Abhay Menon
