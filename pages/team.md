@@ -88,7 +88,7 @@ In my spare time I do be dabbling in a range of things, from playing rocket leag
 #### meet your **general engineering**
 ##### Sofia Chavele-Dastamani
 
-<img style="padding-left: 20px; padding-bottom: 10px;" align="right" src="../assets/Sofia.JPG" alt="ss" width="350"/>
+<img style="padding-left: 20px; padding-bottom: 10px;" align="right" src="../assets/Sofia.JPG" alt="ss" width="365"/>
 
 Hi everyone! My name is Sofia and I am a rising senior majoring in General Engineering, specializing in Biomedical and Health Systems. I am originally from Athens, Greece, where I spent 18 years before joining NYUAD, and proudly calling Abu Dhabi my new home. I have been telling everyone who would listen about wanting to major in Biomedical Engineering for as long as I can remember myself! I am interested in 3D printing, medical device cost-optimization, and HealthTech early-stage innovation. In my free time, I mostly try to explore other emirates (I have a soft spot for Dubai!), I play Squash, and I am a little bit too much into Pilates. Above all, as your Gen Eng Rep, I am extremely passionate about highlighting the unique opportunity and flexibility that a General Engineering major offers. 
 Whether you want to discuss Engineering electives, alternative career paths after Engineering, or simply need some Greek restaurant recommendations, I am always a message away!
