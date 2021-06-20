@@ -41,17 +41,16 @@ If you’re interested in any of these topics or have questions about compE at N
 <br />
 <br />
 <br />
+
 #### meet your **bioengineering** rep :syringe:
 ##### Abhay Menon
 
 <img style="padding-left: 20px; padding-bottom: 10px;" align="right" src="../assets/Abhay.jpeg" alt="azl" width="350"/>
 
-<p align="justify">
-
 Hey! I am Abhay Menon, a rising junior majoring in BioEngineering. I am from Chennai, India and have lived there all my life before coming to NYUAD. I decided to major in BioEngineering because it applies engineering tools and approaches to find unique solutions to problems in biology and medicine. The field of bioengineering is very broad but my research interests lie primarily in visual prosthesis, bionic implants and creating more effective point of care diagnostic tools. 
 
 I am a huge sports fan and spend most of my spare time playing basketball. With BioEngineering being a new major, if you have any questions regarding courses, professors or anything at all feel free to hit me up!
-</p>
+
 
 <br />
 <br />
