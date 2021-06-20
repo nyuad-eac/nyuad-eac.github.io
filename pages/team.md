@@ -22,7 +22,7 @@ Ask me anything about engineering research, about my spotify playlists, or my lo
 #### meet your **computer engineering** rep :computer:
 ##### Maya Fayed
 
-<img style="padding-right: 10px;" align="left" src="../assets/Maya.PNG" alt="na" width="400"/>
+<img style="padding-right: 10px;" align="left" src="../assets/Maya.PNG" alt="na" width="300"/>
 
 Hey there! I’m Maya and I’m a rising junior majoring in computer engineering. Home for me is Alexandria, Egypt and I’ve lived there all my life before coming to NYUAD. While my interest in computer engineering lies primarily within the software side, I chose this major because it allows me to supplement my knowledge of software with very interesting hardware areas such as embedded systems and hardware security. In terms of my academic interests, these range from cybersecurity to computational social science and data visualization and I’m particularly enthusiastic about tackling questions of tech ethics surrounding AI and autonomous systems.
 
