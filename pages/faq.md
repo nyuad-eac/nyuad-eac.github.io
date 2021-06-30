@@ -13,7 +13,7 @@ weight: 2
 * [Civil Engineering](https://nyuad.nyu.edu/en/academics/undergraduate/majors-and-minors/civil-engineering-major/courses.html)
 * [General Engineering](https://nyuad.nyu.edu/en/academics/undergraduate/majors-and-minors/general-engineering-major/courses.html)
 * [Bioengineering](https://nyuad.nyu.edu/en/academics/undergraduate/majors-and-minors/bioengineering-major/courses.html)
- *(For Bioengineering, no pdf is available on the student portal. Check out the 2020-2021 bulletin [here](https://nyuad.nyu.edu/content/dam/nyuad/academics/undergraduate/bulletins/bulletin-2020-2021.pdf) instead. Ctrl+F to find the bioengineering sample 4-year plan)*
+ *(For Bioengineering, no pdf is available on the NYUAD website. Check out the 2020-2021 bulletin [here](https://nyuad.nyu.edu/content/dam/nyuad/academics/undergraduate/bulletins/bulletin-2020-2021.pdf) instead. Ctrl+F to find the bioengineering sample 4-year plan)*
 
 <!---**(Summer 2021) What are the math courses being offered this summer semester?**
 
