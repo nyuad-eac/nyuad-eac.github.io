@@ -5,7 +5,17 @@ permalink: /faq/
 weight: 2
 ---
 
-**What are the math courses being offered this summer semester?**
+**Where can I find sample 4-year plans?**
+
+* [Computer Engineering](https://nyuad.nyu.edu/en/academics/undergraduate/majors-and-minors/computer-engineering-major/courses.html)
+* [Electrical Engineering](https://nyuad.nyu.edu/en/academics/undergraduate/majors-and-minors/electrical-engineering-major/courses.html)
+* [Mechanical Engineering](https://nyuad.nyu.edu/en/academics/undergraduate/majors-and-minors/mechanical-engineering-major/courses.html)
+* [Civil Engineering](https://nyuad.nyu.edu/en/academics/undergraduate/majors-and-minors/civil-engineering-major/courses.html)
+* [General Engineering](https://nyuad.nyu.edu/en/academics/undergraduate/majors-and-minors/general-engineering-major/courses.html)
+* [Bioengineering](https://nyuad.nyu.edu/en/academics/undergraduate/majors-and-minors/bioengineering-major/courses.html)
+ *(For Bioengineering, no pdf is available on the student portal. Check out the 2020-2021 bulletin [here](https://nyuad.nyu.edu/content/dam/nyuad/academics/undergraduate/bulletins/bulletin-2020-2021.pdf) instead. Ctrl+F to find the bioengineering sample 4-year plan)*
+
+**(Summer 2021) What are the math courses being offered this summer semester?**
 
 * Calculus with Applications to Science and Engineering
 * Calculus with Applications to Economics
@@ -68,17 +78,20 @@ Keep in mind that for those wishing to major in Bioengineering, FOS 1-6 will sti
 
 Incoming students should NOT plan on pursuing an aerospace minor. This is due to changing demands and course availability. Current students, if you are able to complete your requirements for the minor through the NYU New York course this fall, please take advantage of this.
 
-**I want to major in Bioengineering and would love to receive any updates regarding the major. Where do I find this information?**
+<!--- **I want to major in Bioengineering and would love to receive any updates regarding the major. Where do I find this information?**
 
 Once the bulletin is released, we will have an information page dedicated to the Bioengineering major! It will outline the Bioengineering pathway, courses, and answer from frequently asked questions. Also, if you’re looking for something very specific, you’re always welcome to reach out to Ansen(Bioengineering rep) at [zhl232@nyu.edu](mailto:zhl232@nyu.edu) for more info.
 
 You can assume that as an incoming freshman you will have the option to major in Bioengineering as it has been approved.
-
+-->
 **What are the categories we will be evaluated on in order to have 2 study away semesters?**
 
-This is an evolving situation with details still being worked out. As decisions are made, we will let you know. For now, the best thing you can do is do well academically.
+Typically, study away for engineers takes place junior spring in New York.
 
-Keep in mind that historically only a small group of students have had the opportunity for two study away semesters. 
+As of now, engineering students who have a GPA of 3.9 and above at the end of their Sophomore year may also qualify for a second study-away semester in NY in the fall of their junior year. Those students must have completed Foundations of Science 1 & 2, Computer Programming for Engineers, Design and Innovation, and all the required math courses. More information can be found [here](https://students.nyuad.nyu.edu/academics/global-education/study-away/study-abroad-paths/).
+<!---This is an evolving situation with details still being worked out. As decisions are made, we will let you know. For now, the best thing you can do is do well academically.
+
+Keep in mind that historically only a small group of students have had the opportunity for two study away semesters. -->
 
 **In the sample schedule for computer engineering, there is a course named Computer Systems Programming. What is this, I can’t find it anywhere else?**
 
