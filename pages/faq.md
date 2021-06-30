@@ -15,7 +15,7 @@ weight: 2
 * [Bioengineering](https://nyuad.nyu.edu/en/academics/undergraduate/majors-and-minors/bioengineering-major/courses.html)
  *(For Bioengineering, no pdf is available on the student portal. Check out the 2020-2021 bulletin [here](https://nyuad.nyu.edu/content/dam/nyuad/academics/undergraduate/bulletins/bulletin-2020-2021.pdf) instead. Ctrl+F to find the bioengineering sample 4-year plan)*
 
-**(Summer 2021) What are the math courses being offered this summer semester?**
+<!---**(Summer 2021) What are the math courses being offered this summer semester?**
 
 * Calculus with Applications to Science and Engineering
 * Calculus with Applications to Economics
@@ -24,7 +24,7 @@ weight: 2
 * Fundamentals of Linear Algebra
 * Fundamentals of Ordinary Differential Equations
 
-
+-->
 **For the Spring semester, it is recommended I take two cores and one colloquium. Can I do two colloquiums and one core?**
 
 The order you complete cores and colloquiums throughout your degree at NYUAD does not matter from a degree perspective. It is highly recommended to spread your core/colloquium courses out to keep things varied and interesting, but it is not required. Looking at the recommended courses, you can take a general elective in place of a core/colloquium as well. Freshman year is a great time to explore an alternative subject you may want to minor in, a skill you may want to explore, etc.  
