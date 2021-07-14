@@ -4,7 +4,7 @@ title: FAQ
 permalink: /faq/
 weight: 2
 ---
-
+**UPDATED: As of July 14, 2021**
 **Where can I find sample 4-year plans?**
 
 * [Computer Engineering](https://nyuad.nyu.edu/en/academics/undergraduate/majors-and-minors/computer-engineering-major/courses.html)
@@ -40,7 +40,7 @@ The MATH-UH 1000 A&B is a new course set up by the Math department. It replaces 
 
 **I placed into MATH-UH 1000 A&B, but I do not feel like this placement accurately reflects my math level. What can I do about this?**
 
-It is possible to try to appeal your case to the Maths Department, provided you have legitimate reasoning. However, there is no guarantee that your math level will be changed. It is entirely up to the discretion of the Maths Department. 
+As of July 14, 2021, The Math Department have clarified that they will not entertain any appeals for the CPT results. There is nothing the Engineering Department nor the EAC can do about this. The Science Department is looking into making Calculus a co-requsite along with FOS but it is uncertain as of now. 
 
 **I placed into MATH-UH 1000 A&B. Will it affect my graduation time?**
 
