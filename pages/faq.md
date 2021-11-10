@@ -46,12 +46,12 @@ The MATH-UH 1000 A&B is a new course set up by the Math department. It replaces 
 
 As of July 14, 2021, The Math Department have clarified that they will not entertain any appeals for the CPT results. There is nothing the Engineering Department nor the EAC can do about this. The Science Department is looking into making Calculus a co-requsite along with FOS but it is uncertain as of now. 
 
-**I placed into MATH-UH 1000 A&B. Will it affect my graduation time?**
+<!---**I placed into MATH-UH 1000 A&B. Will it affect my graduation time?**
 
 Yes it will impact your graduation year, you will now be graduating in 9-10 semesters. Once the bulletin is released we will be able to show how/why this is the case.  \
  \
 Keep in mind, neither the Engineering Department nor the Engineering Academic Committee recommend this pathway. We are unable to say whether the student will be able to receive financial support for their extra semester(s) as this is not a decision we are involved in. 
-
+-->
 **I placed into MATH-UH 1000 A&B. Will this affect my study-aways or J-terms?**
 
 You will still be able to study away for a semester. Once the bulletin is released we will be able to show when this study-away would take place. You should still have the same number of J-term courses (3).
