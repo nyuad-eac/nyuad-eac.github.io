@@ -14,7 +14,7 @@ weight: 2
   - [Civil Engineering](https://nyuad.nyu.edu/en/academics/undergraduate/majors-and-minors/civil-engineering-major/courses.html)
   - [General Engineering](https://nyuad.nyu.edu/en/academics/undergraduate/majors-and-minors/general-engineering-major/courses.html)
 
-* For current ophomores and first years, please refer to the bulletin [here](https://nyuad.nyu.edu/content/dam/nyuad/academics/undergraduate/bulletins/bulletin-2020-2021.pdf) to find the relevant 4-year plan for your major.
+* For current sophomores and first years, please refer to the bulletin [here](https://nyuad.nyu.edu/content/dam/nyuad/academics/undergraduate/bulletins/bulletin-2020-2021.pdf) to find the relevant 4-year plan for your major.
   * For lower math placement into MATH-UH 1000 A&B, students may still be able to finish their engineering degree in 8 semesters in the case that MVC is offered in the summer of their first year. Please refer to the sample 4 year plans on the updates page for more information.
 <!---[Bioengineering](https://nyuad.nyu.edu/en/academics/undergraduate/majors-and-minors/bioengineering-major/courses.html)
  *(For Bioengineering, no pdf is available on the NYUAD website. Check out the 2020-2021 bulletin [here](https://nyuad.nyu.edu/content/dam/nyuad/academics/undergraduate/bulletins/bulletin-2020-2021.pdf) instead. Ctrl+F to find the bioengineering sample 4-year plan)*
