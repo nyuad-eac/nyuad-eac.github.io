@@ -4,7 +4,7 @@ title: FAQ
 permalink: /faq/
 weight: 2
 ---
-**UPDATED: As of July 14, 2021**
+<!---**UPDATED: As of July 14, 2021**-->
 **Where can I find sample 4-year plans?**
 
 * For students that matriculated fall of 2018-2019, you can check out these links:
@@ -50,7 +50,7 @@ As of July 14, 2021, The Math Department have clarified that they will not enter
 
 Yes it will impact your graduation year, you will now be graduating in 9-10 semesters. Once the bulletin is released we will be able to show how/why this is the case.  \
  \
-Keep in mind, neither the Engineering Department nor the Engineering Academic Committee recommend this pathway. We are unable to say whether the student will be able to receive financial support for their extra semester(s) as this is not a decision we are involved in.
+Keep in mind, neither the Engineering Department nor the Engineering Academic Committee recommend this pathway. We are unable to say whether the student will be able to receive financial support for their extra semester(s) as this is not a decision we are involved in. 
 
 **I placed into MATH-UH 1000 A&B. Will this affect my study-aways or J-terms?**
 
