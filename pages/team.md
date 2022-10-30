@@ -7,22 +7,6 @@ weight: 1
 
 
 #### meet your **mechanical engineering** rep :gear:
-##### Kevin Kuriakose Joseph
-
-<img style="padding-right: 10px;" align="left" src="../assets/Kevin.jpeg" alt="mk" width="300"/>
-
-Howdy, I am Kevin Joseph, a rising senior majoring in Mechanical Engineering. Although I am Indian, I was raised and lived in Abu Dhabi my entire life. I always wanted to study the broadest degree possible, and choose to study Mechanical Engineering at the end. Currently, I am interested in topics at the intersection of Urban Engineering and Design, Sustainability and Public Policy. The Vessel and the Little Island at the Hudson Yards are my favorite modern architectural projects. In my spare time, I try to learn latte art and put together a new Spotify playlist. I love dogs, and would love to adopt a dog one day.  
-
-Ask me anything about engineering research, about my spotify playlists, or my love of new york city. Coffee on me!
-
-<br />
-<br />
-<br />
-<br />
-
-
-
-#### meet your **computer engineering** rep :computer:
 ##### Maya Fayed
 
 <img style="padding-right: 10px;" align="right" src="../assets/Maya.PNG" alt="na" width="310"/>
@@ -37,6 +21,24 @@ If you’re interested in any of these topics or have questions about compE at N
 <br />
 <br />
 
+
+##### Rameen Mahmood
+
+<img style="padding-right: 10px;" align="left" src="../assets/Kevin.jpeg" alt="mk" width="300"/>
+
+Hi I’m Rameen! I’m a senior majoring in Electrical Engineering. I’m from Islamabad, Pakistan 🇵🇰 I’m interested in machine learning for health care and exploring challenges in deep learning. I’m super passionate about representation and gender diversity in STEM. 
+I also love avocado toast 🥑 and matcha 🍵. Feel free to contact me with any of the topics above! [Here](rkm352@nyu.edu)’s my email, and [here](https://twitter.com/RameenMahmood_)'s my twitter. 
+
+
+
+<br />
+<br />
+<br />
+<br />
+
+
+
+#### meet your **computer engineering** rep :computer:
 
 #### meet your **bioengineering** rep :syringe:
 ##### Abhay Menon
