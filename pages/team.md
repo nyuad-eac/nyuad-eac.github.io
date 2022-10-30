@@ -6,7 +6,7 @@ weight: 1
 ---
 
 
-#### meet your **mechanical engineering** rep :gear:
+#### meet your ** engineering** rep :gear:
 ##### Maya Fayed
 
 <img style="padding-right: 10px;" align="right" src="../assets/Maya.PNG" alt="na" width="310"/>
@@ -21,7 +21,7 @@ When I’m not coding, you can find me playing frisbee or struggling on the rock
 <br />
 <br />
 
-
+#### meet your **electrical engineering** rep :gear:
 ##### Rameen Mahmood
 
 <img style="padding-right: 10px;" align="left" src="../assets/Rameen.jpg" alt="mk" width="300"/>
@@ -39,12 +39,6 @@ I also love avocado toast 🥑 and matcha 🍵. Feel free to contact me with any
 <br />
 <br />
 <br />
-
-<br />
-<br />
-<br />
-<br />
-
 
 
 #### meet your **bioengineering** rep :syringe:
