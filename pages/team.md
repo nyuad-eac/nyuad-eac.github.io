@@ -24,7 +24,7 @@ If you’re interested in any of these topics or have questions about compE at N
 
 ##### Rameen Mahmood
 
-<img style="padding-right: 10px;" align="left" src="../assets/Kevin.jpeg" alt="mk" width="300"/>
+<img style="padding-right: 10px;" align="left" src="../assets/Rameen.heic" alt="mk" width="300"/>
 
 Hi I’m Rameen! I’m a senior majoring in Electrical Engineering. I’m from Islamabad, Pakistan 🇵🇰 I’m interested in machine learning for health care and exploring challenges in deep learning. I’m super passionate about representation and gender diversity in STEM. 
 I also love avocado toast 🥑 and matcha 🍵. Feel free to contact me with any of the topics above! [Here](rkm352@nyu.edu)’s my email, and [here](https://twitter.com/RameenMahmood_)'s my twitter. 
