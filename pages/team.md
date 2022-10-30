@@ -47,8 +47,6 @@ I also love avocado toast 🥑 and matcha 🍵. Feel free to contact me with any
 
 
 
-#### meet your **computer engineering** rep :computer:
-
 #### meet your **bioengineering** rep :syringe:
 ##### Abhay Menon
 
