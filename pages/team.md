@@ -58,10 +58,10 @@ I am a huge sports fan and spend most of my spare time playing basketball. With 
 
 
 
-#### meet your **electrical engineering** rep :zap:
+#### meet your **mechanical engineering** rep :zap:
 ##### Aayush Karna
 
-<img style="padding-left: 20px; padding-bottom: 10px;" align="right" src="../assets/Uljad.jpg" alt="rm" width="270"/>
+<img style="padding-left: 20px; padding-bottom: 10px;" align="right" src="../assets/Aayush.png" alt="rm" width="270"/>
 Hello ! I’m Aayush and I’m a senior majoring in Mechanical Engineering from Kathmandu, Nepal. My interests lie in 3D designing, computational fluid dynamics and aeroacoustics. 
 <br />
 <br />
@@ -77,7 +77,7 @@ Feel free to contact me with any questions related to mechanical engineering at 
 #### meet your **civil engineering** rep :construction:
 ##### Tedi Hondro
 
-<img style="padding-left: 20px; padding-bottom: 10px;" align="right" src="../assets/Yaman.jpg" alt="ss" width="300"/>
+<img style="padding-left: 20px; padding-bottom: 10px;" align="right" src="../assets/Tedi.png" alt="ss" width="300"/>
 
 Hey! This is Tedi and I am a senior majoring in Civil Engineering. I have a broad spectrum of interests but first place is taken by biomimicry in creating architecture and design which I believe will be a key to a more energy efficient future. 
 <br />
