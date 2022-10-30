@@ -21,7 +21,7 @@ When I’m not coding, you can find me playing frisbee or struggling on the rock
 <br />
 <br />
 
-#### meet your **electrical engineering** rep :gear:
+#### meet your **electrical engineering** rep :zap:
 ##### Rameen Mahmood
 
 <img style="padding-right: 10px;" align="left" src="../assets/Rameen.jpg" alt="mk" width="300"/>
@@ -58,7 +58,7 @@ I am a huge sports fan and spend most of my spare time playing basketball. With 
 
 
 
-#### meet your **mechanical engineering** rep :zap:
+#### meet your **mechanical engineering** rep :gear:
 ##### Aayush Karna
 
 <img style="padding-left: 20px; padding-bottom: 10px;" align="right" src="../assets/Aayush.png" alt="rm" width="270"/>
@@ -72,7 +72,8 @@ Feel free to contact me with any questions related to mechanical engineering at 
 <br />
 <br />
 <br />
-
+<br />
+<br />
 
 #### meet your **civil engineering** rep :construction:
 ##### Tedi Hondro
