@@ -62,7 +62,7 @@ I am a huge sports fan and spend most of my spare time playing basketball. With 
 #### meet your **mechanical engineering** rep :gear:
 ##### Aayush Karna
 
-<img style="padding-left: 20px; padding-bottom: 5px;" align="left" src="../assets/Aayush.png" alt="rm" width="270"/>
+<img style="padding-left: 20px; padding-bottom: 10px;" align="left" src="../assets/Aayush.png" alt="rm" width="270"/>
 Hello ! I’m Aayush and I’m a senior majoring in Mechanical Engineering from Kathmandu, Nepal. My interests lie in 3D designing, computational fluid dynamics and aeroacoustics. 
 <br />
 <br />
