@@ -39,6 +39,7 @@ I also love avocado toast 🥑 and matcha 🍵. Feel free to contact me with any
 <br />
 <br />
 <br />
+<br />
 
 
 #### meet your **bioengineering** rep :syringe:
@@ -74,6 +75,8 @@ Feel free to contact me with any questions related to mechanical engineering at 
 <br />
 <br />
 <br />
+<br />
+
 
 #### meet your **civil engineering** rep :construction:
 ##### Tedi Hondro
