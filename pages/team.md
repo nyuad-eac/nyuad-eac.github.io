@@ -22,6 +22,9 @@ When I’m not coding, you can find me playing frisbee or struggling on the rock
 <br />
 <br />
 <br />
+<br />
+<br />
+<br />
 
 #### meet your **electrical engineering** rep :zap:
 ##### Rameen Mahmood
@@ -41,9 +44,7 @@ I also love avocado toast 🥑 and matcha 🍵. Feel free to contact me with any
 <br />
 <br />
 
-<br />
-<br />
-<br />
+
 <br />
 <br />
 
