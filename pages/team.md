@@ -15,7 +15,9 @@ Hey there! I’m Maya and I’m a senior majoring in computer engineering. Home 
 When I’m not coding, you can find me playing frisbee or struggling on the rock climbing wall;) Feel free to reach out to me with any questions or just to chat about any of these topics!
 
 
-
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
@@ -38,9 +40,7 @@ I also love avocado toast 🥑 and matcha 🍵. Feel free to contact me with any
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
+
 <br />
 <br />
 <br />
