@@ -3,100 +3,299 @@ layout: page
 title: Content
 permalink: /content/
 weight: 6
----
-<!---**UPDATED: As of July 14, 2021**-->
-**Where can I find sample 4-year plans?**
+---<!DOCTYPE html>
+<html lang='en'>
+<head>
+	<!-- Google tag (gtag.js) -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-V16J2HLBXC"></script>
+	<script>
+  		window.dataLayer = window.dataLayer || [];
+  		function gtag(){dataLayer.push(arguments);}
+  		gtag('js', new Date());
 
-* For students that matriculated fall of 2018-2019, you can check out these links:
-  - [Computer Engineering](https://nyuad.nyu.edu/en/academics/undergraduate/majors-and-minors/computer-engineering-major/courses.html)
-  - [Electrical Engineering](https://nyuad.nyu.edu/en/academics/undergraduate/majors-and-minors/electrical-engineering-major/courses.html)
-  - [Mechanical Engineering](https://nyuad.nyu.edu/en/academics/undergraduate/majors-and-minors/mechanical-engineering-major/courses.html)
-  - [Civil Engineering](https://nyuad.nyu.edu/en/academics/undergraduate/majors-and-minors/civil-engineering-major/courses.html)
-  - [General Engineering](https://nyuad.nyu.edu/en/academics/undergraduate/majors-and-minors/general-engineering-major/courses.html)
+  		gtag('config', 'G-V16J2HLBXC');
+	</script>
+	
+    <title>Resources</title>
+    <!-- this is a template for SUBpages -->
+    <!-- dependencies: stylesheet in the main folder -->
+    <!-- instagram: https://www.instagram.com/westemnyuad/ -->
+    <!-- email: mailto:westem.team@nyu.edu-->
+    <!-- slack: https://docs.google.com/forms/d/e/1FAIpQLScE-LxnVmYpPy_MfN4Y2G0RHxUU6sdHsRg4ZKxxz2x53f3nyQ/viewform -->
+    <!-- pages: about(index.html) in main folder!!!, 
+        events (events.html) in the pages folder which should be the same folder as all the subpages, 
+        get involved (get_involved.html) in the pages folder which should be the same folder as all the subpages -->
 
-* For current sophomores and first years, please refer to the bulletin [here](https://nyuad.nyu.edu/content/dam/nyuad/academics/undergraduate/bulletins/bulletin-2020-2021.pdf) to find the relevant 4-year plan for your major.
-  * For lower math placement into MATH-UH 1000 A&B, CE and EE students may still be able to finish their engineering degree in 8 semesters in the case that MVC is offered in the summer of their first year. Please refer to the sample 4 year plans on the updates page for more information.
-<!---[Bioengineering](https://nyuad.nyu.edu/en/academics/undergraduate/majors-and-minors/bioengineering-major/courses.html)
- *(For Bioengineering, no pdf is available on the NYUAD website. Check out the 2020-2021 bulletin [here](https://nyuad.nyu.edu/content/dam/nyuad/academics/undergraduate/bulletins/bulletin-2020-2021.pdf) instead. Ctrl+F to find the bioengineering sample 4-year plan)*
+    <!-- bootstrap stuff, learn more about this here here:https://www.w3schools.com/bootstrap/-->
+    <meta charset='utf-8'>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css'>
+    <script src='https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js'></script>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js'></script>
+    <script src='https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js'></script>
 
-**(Summer 2021) What are the math courses being offered this summer semester?**
+    <!-- the icon in the tab -->
+    <link rel="icon" href="../images/logos/westem-logo-black.png">
 
-* Calculus with Applications to Science and Engineering
-* Calculus with Applications to Economics
-* Multivariable Calculus with Applications to Science and Engineering
-* Multivariable Calculus with Applications to Economics
-* Fundamentals of Linear Algebra
-* Fundamentals of Ordinary Differential Equations
+    <!-- linked needed from the social media icons -->
+    <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css'>
 
--->
-**For the Spring semester, it is recommended I take two cores and one colloquium. Can I do two colloquiums and one core?**
+    <!-- used to import needed files to change the default font -->
+    <link href='https://fonts.googleapis.com/css?family=Montserrat:400,500,800' rel='stylesheet'>
 
-The order you complete cores and colloquiums throughout your degree at NYUAD does not matter from a degree perspective. It is highly recommended to spread your core/colloquium courses out to keep things varied and interesting, but it is not required. Looking at the recommended courses, you can take a general elective in place of a core/colloquium as well. Freshman year is a great time to explore an alternative subject you may want to minor in, a skill you may want to explore, etc.  
+    <!-- link to our stylesheet -->
+    <link rel="stylesheet" type="text/css" href="../stylesheet.css">
+
+</head>
+<body>
+    <!-- nav bar -->
+    <nav class='navbar sticky-top navbar-expand-lg navbar navbar-dark bg-dark'> <!-- replace dark with light to get  -->
+
+        <a class='navbar-brand' href='#'>
+            <!-- adding weStem logo -->
+            <a class='navbar-brand' href='../index.html'><img src='../images/logos/westem-logo-white.png' class='img-responsive logo'>
+            </a>
+        </a>
+
+        <!--dropdown button that appears for smaller screens such as phone -->
+        <button class='navbar-toggler' type='button' data-toggle='collapse' data-target='#navbarNavDropdown' aria-controls='navbarNavDropdown' aria-expanded='false' aria-label='Toggle navigation'>
+        <span class='navbar-toggler-icon'></span>
+        </button>
+
+        <!-- nav bar contents aka links to other pages and social media icons -->
+        <div class='collapse navbar-collapse' id='navbarNavDropdown'>
+            <ul class='navbar-nav'>
+
+                <!-- #TODO activate the page that is current (make sure to change class='nav-link active' for respective pages e.g. the events.html should have the class of its page here activated-->
+                <li class='nav-item'>
+                    <!-- since this is templete for subpages we need to gou out of pages folder into main foler (hence the two dots, then go to index in the main folder) -->
+                    <a class='nav-link' href='../index.html'>About</a>
+                </li>
+                <!-- <li class='nav-item'> -->
+                    <!-- the rest of the pages is in the same folder (ie pages) so we can just directly name the file name -->
+                    <!-- <a class='nav-link' href='events.html'>Events</a>
+                </li> -->
+
+                <li class='nav-item'>
+                    <a class='nav-link' href='blog.html'>Blog</a>
+                </li>
+
+                <li class='nav-item'>
+                    <a class='nav-link' href='newsletter.html'>Newsletter</a>
+                </li>
+                
+                <li class='nav-item active'>
+                    <a class='nav-link' href='resources.html'>Resources</a>
+                </li>
+
+                <li class='nav-item'>
+                    <a class='nav-link' href='get_involved.html'>Get involved</a>
+                </li>
+            </ul> 
+
+            <!-- the social media icons -->
+            <ul class='navbar-nav ml-auto'>
+                <a href='https://www.instagram.com/westemnyuad/' class='fa fa-instagram'></a>
+                <a href='mailto:westem.team@nyu.edu' class='fa fa-envelope'></a>
+                <a href='https://docs.google.com/forms/d/e/1FAIpQLScE-LxnVmYpPy_MfN4Y2G0RHxUU6sdHsRg4ZKxxz2x53f3nyQ/viewform' class='fa fa-slack'></a>
+            </ul>
+            <!-- end of the social media icons -->
+
+        </div>
+    </nav>
+    <!-- end of navigation bar -->
+<!-- start of grid -->
+<div class="album py-5 bg-light">
+
+    <div class="container">
+
+        <!-- Resources by Majors -->
+        <h1 class="heading">Resources by Majors</h1>
+        <hr>
+        <div class="row row-cols-1 row-cols-lg-2 row-cols-lg-3 g-3">
+            <!-- element 1 -->
+            <a href="https://docs.google.com/document/d/1pB-bqxzozm7-URU0si8oo1ISWWYQ-eB17BInxkuqNYA/edit" target="_blank">
+                <div class="col box">
+                    <div class="card shadow-sm">
+                        <svg class="bd-placeholder-img card-img-top" id="Biology" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" preserveAspectRatio="xMidYMid slice" focusable="false">
+                        <title>Biology</title></svg>
+
+                        <div class="card-body">
+                            <p class="card-text">Biology</p>
+                            <div class="d-flex justify-content-between align-items-center">
+                                <div class="btn-group">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </a>
+
+            <!-- element 2 -->
+            <a href="https://docs.google.com/document/d/1zdIoWt8ko5jNtbjs0qqGCSiTCgEUn--4NJzp7g_jOno/edit" target="_blank">
+                <div class="col box">
+                    <div class="card shadow-sm">
+                        <svg class="bd-placeholder-img card-img-top" id="Chemistry" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" preserveAspectRatio="xMidYMid slice" focusable="false">
+                        <title>Chemistry</title></svg>
+
+                        <div class="card-body">
+                            <p class="card-text">Chemistry</p>
+                            <div class="d-flex justify-content-between align-items-center">
+                                <div class="btn-group">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </a>
+
+            <!-- element 3 -->
+            <a href="https://docs.google.com/document/d/1HZ2BuodsaocOo7GnqCs336eJ4ysvQjHt3y27PoGkxM0/edit" target="_blank">
+                <div class="col box">
+                    <div class="card shadow-sm">
+                        <svg class="bd-placeholder-img card-img-top" id="Compsci" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" preserveAspectRatio="xMidYMid slice" focusable="false">
+                        <title>Computer Science</title></svg>
+
+                        <div class="card-body">
+                            <p class="card-text">Computer Science</p>
+                            <div class="d-flex justify-content-between align-items-center">
+                                <div class="btn-group">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </a>
+
+            <!-- element 4 -->
+            <a href="https://docs.google.com/document/d/15LRTX9jypqUSqa_80UKtk3o8GsqA7aRKA3EqlrjX2Nw/edit" target="_blank">
+                <div class="col box">
+                    <div class="card shadow-sm">
+                        <svg class="bd-placeholder-img card-img-top" id="Engineering" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" preserveAspectRatio="xMidYMid slice" focusable="false">
+                        <title>Engineering</title></svg>
+
+                        <div class="card-body">
+                            <p class="card-text">Engineering</p>
+                            <div class="d-flex justify-content-between align-items-center">
+                                <div class="btn-group">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </a>
+
+            <!-- element 5 -->
+            <a href="https://docs.google.com/document/d/11OC4w8KryBPsmTGjckMBt3Viy3znKop2tq2N-CjJGz8/edit" target="_blank">
+                <div class="col box">
+                    <div class="card shadow-sm">
+                        <svg class="bd-placeholder-img card-img-top" id="Mathematics" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" preserveAspectRatio="xMidYMid slice" focusable="false">
+                        <title>Mathematics</title></svg>
+
+                        <div class="card-body">
+                            <p class="card-text">Mathematics</p>
+                            <div class="d-flex justify-content-between align-items-center">
+                                <div class="btn-group">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </a>
+
+            <!-- element 6 -->
+            <a href="https://docs.google.com/document/d/1YbYMNcLjSvPxMEI4INDTwPf8ivV2S2-VF5RPyQB0uLc/edit" target="_blank">
+                <div class="col box">
+                    <div class="card shadow-sm">
+                        <svg class="bd-placeholder-img card-img-top" id="Physics" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" preserveAspectRatio="xMidYMid slice" focusable="false">
+                        <title>Physics</title></svg>
+
+                        <div class="card-body">
+                            <p class="card-text">Physics</p>
+                            <div class="d-flex justify-content-between align-items-center">
+                                <div class="btn-group">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </a>
+
+            <!-- element 7 -->
+            <a href="https://docs.google.com/document/d/1yju6xW7FDfCH_zEB23-ab969oIRkobf7oAlUOj1E3TI/edit" target="_blank">
+                <div class="col box">
+                    <div class="card shadow-sm">
+                        <svg class="bd-placeholder-img card-img-top" id="Psychology" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" preserveAspectRatio="xMidYMid slice" focusable="false">
+                        <title>Psychology</title></svg>
+
+                        <div class="card-body">
+                            <p class="card-text">Psychology</p>
+                            <div class="d-flex justify-content-between align-items-center">
+                                <div class="btn-group">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </a>
+
+        </div>
+
+        <!-- Mathematics Replacement Test -->
+        <h1 class="heading">Mathematics Placement Test</h1>
+        <hr>
+        <div class="row row-cols-1 row-cols-lg-2 row-cols-lg-3 g-3">
+            <!-- element 1 -->
+            <a href="https://janinecontreras.notion.site/Math-Placement-Test-2021-e98b2390cfb74837ae5b0e059d28e6b7" target="_blank">
+                <div class="col box">
+                    <div class="card shadow-sm">
+                        <svg class="bd-placeholder-img card-img-top" id="Math" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" preserveAspectRatio="xMidYMid slice" focusable="false">
+                        <title>Study Guide</title></svg>
+
+                        <div class="card-body">
+                            <p class="card-text">Study Guide</p>
+                            <div class="d-flex justify-content-between align-items-center">
+                                <div class="btn-group">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+<!--             </a> -->
+
+            <!-- element 2 -->
+<!--             <a href="https://us3.campaign-archive.com/?u=88de091bebad14b6de073cc8f&id=02a09a3f03" target="_blank"> -->
+<!--                 <div class="col box">
+                    <div class="card shadow-sm">
+                        <svg class="bd-placeholder-img card-img-top" id="PastExams" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" preserveAspectRatio="xMidYMid slice" focusable="false">
+                        <title>Past Exams</title></svg>
+                        <div class="card-body">
+                            <p class="card-text">Past Exams</p>
+                            <div class="d-flex justify-content-between align-items-center">
+                                <div class="btn-group">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div> -->
+<!--             </a> -->
+        </div>
 
 
-**As an incoming freshman trying to major in Engineering, what courses should I be taking?**
+    </div>
+</div>
 
-It is highly recommended that you are enrolled in three courses for the fall semester, including Computer Programming for Engineers, a Math Course, and FYWS or Core Colloquium. This will prevent you from falling behind. Students currently enrolled in only two courses (underloading), or are not enrolled in the suggested courses, should revise their schedules. 
 
-**What is MATH-UH 1000 A&B? Is it one semester or two semesters? How does it work?**
 
-The MATH-UH 1000 A&B is a new course set up by the Math department. It replaces the previously available set of pre-calculus courses (Vectors, Functions, Trigonometry). Each “section” (A&B) are 2-credits and are meant to be completed in the same semester. The course is also meant to be completed prior to enrolling in Calculus.
+    <!-- footer -->
+    <div class='footer'>
+        <a href='https://www.instagram.com/westemnyuad/' class='fa fa-instagram'></a>
+        <a href='mailto:westem.team@nyu.edu' class='fa fa-envelope'></a>
+        <a href='https://docs.google.com/forms/d/e/1FAIpQLScE-LxnVmYpPy_MfN4Y2G0RHxUU6sdHsRg4ZKxxz2x53f3nyQ/viewform' class='fa fa-slack'></a>
+        <!-- <p class="footer-text">weSTEM 2021 | by Nouf Alabbasi, Yeonie Heo, and Ivana Drabova</p> -->
+    </div>
+    <!-- end of footer -->
 
-**I placed into MATH-UH 1000 A&B, but I do not feel like this placement accurately reflects my math level. What can I do about this?**
+</body>
+</html>
 
-As of July 14, 2021, The Math Department have clarified that they will not entertain any appeals for the CPT results. There is nothing the Engineering Department nor the EAC can do about this. The Science Department is looking into making Calculus a co-requsite along with FOS but it is uncertain as of now. 
-
-<!---**I placed into MATH-UH 1000 A&B. Will it affect my graduation time?**
-
-Yes it will impact your graduation year, you will now be graduating in 9-10 semesters. Once the bulletin is released we will be able to show how/why this is the case.  \
- \
-Keep in mind, neither the Engineering Department nor the Engineering Academic Committee recommend this pathway. We are unable to say whether the student will be able to receive financial support for their extra semester(s) as this is not a decision we are involved in. 
--->
-**I placed into MATH-UH 1000 A&B. Will this affect my study-aways or J-terms?**
-
-You will still be able to study away for a semester. Once the bulletin is released we will be able to show when this study-away would take place. You should still have the same number of J-term courses (3).
-
-Keep in mind, neither the Engineering Department nor the Engineering Academic Committee recommend this pathway. We are unable to say whether the student will be able to receive financial support for their extra semester(s) as this is not a decision we are involved in.
-
-**I placed into MATH-UH 1000 A&B. What courses should I take?**
-
-Look here:
-
-[https://students.nyuad.nyu.edu/academics/academic-mentoring/engineering-plan/?fbclid=IwAR2ZfisH9Pzrt3fkOidCXhLKjeE0EvqhoxP9XWXttEojZHw1loAx0YyDBvo](https://students.nyuad.nyu.edu/academics/academic-mentoring/engineering-plan/?fbclid=IwAR2ZfisH9Pzrt3fkOidCXhLKjeE0EvqhoxP9XWXttEojZHw1loAx0YyDBvo)
-
-**I want to major in Engineering but may also switch into X. What courses should I do?** \
- \
-That’s a really difficult question to answer because there it depends on how likely you are, how you feel after taking the introductory courses, and what you placed into.  \
- \
-However, when making your decision, do keep in mind that all Natural Science and Engineering courses will require you to do FOS. Also, keep in mind that if you achieve an A- or above in Computer Programming for Engineers, this can transfer over to credits for Introduction to Computer Science. Also, keep in mind that you can complete an Engineering minor if you start FOS but switch majors later.
-
-**Since FOS 3/4 are no longer required, what are the other courses that we should take in order to replace the science courses requirement?**
-
-The extension of certain math courses (e.g. Linear Algebra, ODE, etc) covers your math/science ABET requirements. You don’t have to worry about this. 
-
-For those opting out of FOS 3/4 , you must do either Quantitative Synthetic Biology or Electromagnetics (for Engineers?) course.
-
-Keep in mind that for those wishing to major in Bioengineering, FOS 1-6 will still be required.
-
-**Is it possible to do a minor in Aerospace engineering?**
-
-Incoming students should NOT plan on pursuing an aerospace minor. This is due to changing demands and course availability. Current students, if you are able to complete your requirements for the minor through the NYU New York course this fall, please take advantage of this.
-
-<!--- **I want to major in Bioengineering and would love to receive any updates regarding the major. Where do I find this information?**
-
-Once the bulletin is released, we will have an information page dedicated to the Bioengineering major! It will outline the Bioengineering pathway, courses, and answer from frequently asked questions. Also, if you’re looking for something very specific, you’re always welcome to reach out to Ansen(Bioengineering rep) at [zhl232@nyu.edu](mailto:zhl232@nyu.edu) for more info.
-
-You can assume that as an incoming freshman you will have the option to major in Bioengineering as it has been approved.
--->
-**What are the categories we will be evaluated on in order to have 2 study away semesters?**
-
-Typically, study away for engineers takes place junior spring in New York.
-
-As of now, engineering students who have a GPA of 3.9 and above at the end of their Sophomore year may also qualify for a second study-away semester in NY in the fall of their junior year. Those students must have completed Foundations of Science 1 & 2, Computer Programming for Engineers, Design and Innovation, and all the required math courses. More information can be found [here](https://students.nyuad.nyu.edu/academics/global-education/study-away/study-abroad-paths/).
-<!---This is an evolving situation with details still being worked out. As decisions are made, we will let you know. For now, the best thing you can do is do well academically.
-
-Keep in mind that historically only a small group of students have had the opportunity for two study away semesters. -->
-
-**In the sample schedule for computer engineering, there is a course named Computer Systems Programming. What is this, I can’t find it anywhere else?**
-
-This refers to Object-Oriented Programming. The course was renamed but you may find older sources that still carry this previous name.
