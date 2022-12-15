@@ -6,7 +6,7 @@ weight: 1
 ---
 
 
-#### meet your **engineering** rep and committee chair 🖥️:
+#### meet your **engineering** rep and committee chair 🖥️
 ##### Maya Fayed
 
 <img style="padding-right: 10px;" align="right" src="../assets/Maya.PNG" alt="na" width="310"/>
