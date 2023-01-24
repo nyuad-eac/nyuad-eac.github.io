@@ -1,7 +1,4 @@
 
-.dark-mode {
-        color: #FFFFFF;
-}
 
 /* Remove the navbar's default margin-bottom and rounded borders */ 
 .navbar {
@@ -28,6 +25,10 @@ footer {
 #StudyAway{
 			background-image: url("assets/study-away-advice.jpg");
 			background-size: 100%;
+			.dark-mode {
+			color: #FFFFFF;
+		}
+	
 		}
 #Chemistry{
 			background-image: url("assets/study-away-advice.jpg");
