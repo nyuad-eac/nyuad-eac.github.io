@@ -1,0 +1,60 @@
+
+/* Remove the navbar's default margin-bottom and rounded borders */ 
+.navbar {
+	margin-bottom: 0;
+	border-radius: 0;
+}
+
+/* Add a background color and some padding to the footer */
+footer {
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	background-color: #838080;
+	padding: 10px;
+}
+
+.carousel-inner img {
+	width: 100%; /* Set width to 100% */
+	margin: auto;
+	min-height:200px;
+}
+
+
+#Biology{
+			background-image: url("images/Recources/biology.png");
+			background-size: 100%;
+		}
+#Chemistry{
+			background-image: url("images/Recources/chemistry.png");
+			background-size: 100%;
+		}
+#Compsci{
+			background-image: url("images/Recources/computer_science.png");
+			background-size: 100%;
+		}
+#Engineering{
+			background-image: url("images/Recources/engineering.png");
+			background-size: 100%;
+		}
+#Mathematics{
+			background-image: url("images/Recources/mathematics.png");
+			background-size: 100%;
+		}
+#Physics{
+			background-image: url("images/Recources/physics.png");
+			background-size: 100%;
+		}
+#Psychology{
+			background-image: url("images/Recources/psychology.png");
+			background-size: 100%;
+		}
+
+#Math{
+			background-image: url("images/newsletter/placeholder_newsletter_2.png");
+			background-size: 100%;
+		}
+#PastExams{
+			background-image: url("images/placeholders/comingSoon.png");
+			background-size: 100%;
+		}
