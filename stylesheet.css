@@ -1,4 +1,8 @@
 
+.dark-mode {
+        color: #FFFFFF;
+}
+
 /* Remove the navbar's default margin-bottom and rounded borders */ 
 .navbar {
 	margin-bottom: 0;
@@ -20,10 +24,6 @@ footer {
 	min-height:200px;
 }
 
-.dark-mode {
-        background-color: black;
-        color: white;
-      }
 
 #StudyAway{
 			background-image: url("assets/study-away-advice.jpg");
