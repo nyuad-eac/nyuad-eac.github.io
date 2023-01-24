@@ -20,6 +20,10 @@ footer {
 	min-height:200px;
 }
 
+.dark-mode {
+        background-color: black;
+        color: white;
+      }
 
 #StudyAway{
 			background-image: url("assets/study-away-advice.jpg");
