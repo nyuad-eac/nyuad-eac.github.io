@@ -48,7 +48,7 @@ weight: 1
 <h2>Engineering Academic Committee Members</h2>
 
 <div class="team-member">
-    <img src="../assets/me.PNG" alt="Mahmoud Elbeh"/>
+    <img src="../assets/Mahmoud.jpg" alt="Mahmoud Elbeh"/>
     <div class="description">
         <h3><b>Engineering</b> Rep</h3>
         <h4>Mahmoud Elbeh</h4>
@@ -98,12 +98,12 @@ weight: 1
 </div>
 
 <div class="team-member">
-    <img src="../assets/Aya.png" alt="Aya Elmir"/>
+    <img src="../assets/Aya.jpg" alt="Aya Elmir"/>
     <div class="description">
         <h3><b>Computer Engineering</b> Rep</h3>
         <h4>Aya Elmir</h4>
         <a href="mailto:[ae2195@nyu.edu]">[<ae2195@nyu.edu>]</a>
-        <p>to be filled...</p>
+        <p>Hello, I am Aya, a senior majoring in computer engineering. My passion lies within the intersection of AI (Artificial Intelligence) and healthcare. I am fascinated by all applications of ML (Machine Learning) in healthcare; indeed, the one that excites me the most is neuroscience and AI, improving our understanding of the mind through ML. My research endeavors extend out to different countries across the world: the UAE, Germany, and the US (side note: please reach out if you have any questions about navigating research opportunities on campus and outside). My most recent research was on understanding bias in the decision-making of ML models in the healthcare field, more specifically, how the models we are building for the healthcare field are becoming more and more biased toward a certain privileged subset of our societies... (if that sounds like something you would want to learn more about, feel free to reach out). I also serve as part of the E-Board for the weSTEM Student Interest Group on campus (for supporting women, non-binary people, and male-identifying allies interested in science, technology, and engineering), and it has been an amazing experience to connect STEM enthusiasts through various programs such as the mentorship program (which - fun fact - I participated in my sophomore year and I am still in contact with my mentor). Lastly, I believe computer engineering is a rich major that allows you to navigate the hardware and the software sides of engineering, thus, I would be more than happy to discuss its career opportunities and the differences with computer science... and answer any questions you might have :) </p>
     </div>
 </div>
 
