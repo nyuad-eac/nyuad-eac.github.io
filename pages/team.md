@@ -78,7 +78,7 @@ weight: 1
 </div>
 
 <div class="team-member">
-    <img src="../assets/Aalia.png" alt="Aalia Imran"/>
+    <img src="../assets/Aalia.JPG" alt="Aalia Imran"/>
     <div class="description">
         <h3><b>General Engineering</b> Rep</h3>
         <h4>Aalia Imran</h4>
