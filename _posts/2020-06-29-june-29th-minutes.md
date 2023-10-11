@@ -3,7 +3,7 @@ title: June 29th Minutes
 tags: [forum, minutes]
 style:
 color:
-description: Minutes for the June 29th forum with the Engineering admin
+description: Minutes for the June 29th forum with the Engineering admin (OUTDATED)
 ---
 
 **Will there be engineering classes that are normally offered in Spring be offered in the Fall Semester?**

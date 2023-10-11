@@ -23,7 +23,7 @@ weight: 2
     }
 </style>
 
-## Frequently Asked Questions
+## Frequently Asked Questions (OUTDATED)
 
 <div class="faq-section">
     <div class="faq-question">Where can I find sample 4-year plans?</div>
