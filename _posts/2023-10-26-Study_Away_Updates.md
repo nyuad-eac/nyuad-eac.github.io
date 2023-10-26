@@ -3,9 +3,7 @@ title: Study Away Updates for CO2026
 tags: [pathways, graduation, studyaway]
 style:
 color:
-description: Slides from the Engineering TownHall Week 2021
 ---
-
 
 <style>
 .responsive-wrap iframe{ max-width: 100%;}
